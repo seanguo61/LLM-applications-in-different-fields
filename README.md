@@ -3,12 +3,12 @@ Notes of LLM-applications-in-different-fields
 
 # Table of Contents
 - [Time series](#TIME-SERIES)
-   -
-   -
+  - [Prediction](#PREDICTION)
+  - [Imputation](#IMPUTATION)
 
 - [Urban computing](#URBAN-COMPUTING)
-   - 
-   - 
+   - [Prediction](#PREDICTION)
+   - [Decision-making](#DECISION-MAKING)
 
 - [AIoT ](#AIOT)
    - [Cyber-physical system](#CYBER-PHYSICAL-SYSTEM)
@@ -21,11 +21,20 @@ Notes of LLM-applications-in-different-fields
 ## Papers 
 
 ### Time series
+#### Prediction
 | **Paper**                                                                   | **Venue** | **Year** |
 |-----------------------------------------------------------------------------|-----------|----------|
 | Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook | Arxiv     | 2023     |
+#### Imputation
 
 ### Urban computing
+
+#### Prediction
+
+#### Decision-making
+| **Paper**                                                               | **Venue** | **Year** |
+|-------------------------------------------------------------------------|-----------|----------|
+| TravelPlanner: A Benchmark for Real-World Planning with Language Agents | ICML      | 2024     |
 
 ### AIoT 
 #### Cyber-physical system
